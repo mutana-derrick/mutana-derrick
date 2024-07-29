@@ -1,4 +1,6 @@
 ## Hello World! 👋
+Software Developer and Information Technology Technician <br> 
+Always improving and building new skills
 
 <!--
 **mutana-derrick/mutana-derrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
